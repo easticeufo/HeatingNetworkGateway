@@ -18,7 +18,7 @@
 #include "MQTTPacket.h"
 
 #define MQTT_SERVER_ADDR "112.124.41.233"
-#define MQTT_SERVER_PORT 61613
+#define MQTT_SERVER_PORT 1883
 #define MQTT_USERNAME "admin"
 #define MQTT_PASSWORD "nonadmin"
 
